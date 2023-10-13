@@ -26,7 +26,6 @@ Here are some ideas to get you started:
   - Jetpack Compose
   - Rust
   - ORM development (for Spria)
-    
 - 👯 I’m looking to collaborate on ...
   - I'm opening to any opurtuniny to harness my skills.
 - 🤔 I’m looking for help with ...
