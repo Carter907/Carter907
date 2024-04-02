@@ -3,11 +3,9 @@
 - 🔭 I’m currently working on ...
   - [Quizlo](https://github.com/Carter907/quizlo), a learning tool.
 - 🌱 I’m currently learning ...
-  - Actix Web
+  - Next.js
   - Spring Boot
-  - Angular
   - Node.js
-  - Express.js
   - Typescript/Javascript
   - Rust
 - 👯 I’m looking to collaborate on ...
