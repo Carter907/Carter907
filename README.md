@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
-  - Quizlo, a learning platform.
+  - Quizlo, a learning tool.
 - 🌱 I’m currently learning ...
   - Actix Web
   - Spring Boot
