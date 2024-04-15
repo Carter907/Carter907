@@ -3,9 +3,7 @@
 - 🔭 I’m currently working on ...
   - [Quizlo](https://github.com/Carter907/quizlo), a learning tool.
 - 🌱 I’m currently learning ...
-  - Next.js
   - Spring Boot
-  - Node.js
   - Typescript/Javascript
   - Rust
 - 👯 I’m looking to collaborate on ...
