@@ -4,6 +4,7 @@
   - [Quizlo](https://github.com/Carter907/quizlo), a learning tool.
 - 🌱 I’m currently learning ...
   - Spring Boot
+  - Spring AI
   - Typescript/Javascript
   - Rust
 - 👯 I’m looking to collaborate on ...
