@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
-  - [Quizlo](https://github.com/Carter907/quizlo), a learning tool.
+  - [Integral Mania](https://github.com/Carter907/integral-mania), a learning tool.
 - 🌱 I’m currently learning ...
   - Spring Boot
   - Spring AI
