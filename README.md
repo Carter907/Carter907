@@ -5,8 +5,10 @@
 - 🌱 I’m currently learning ...
   - Spring Boot
   - Spring AI
+  - C#
+  - Monogame
   - Typescript/Javascript
-  - Rust
+    
 - 👯 I’m looking to collaborate on ...
   - I'm open to any opportunity or startup.
 - 💬 Ask me about ...
