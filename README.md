@@ -4,10 +4,9 @@
   - [Prop Logic Mastery](https://github.com/Carter907/prop-logic-mastery), an LLM Quiz App.
 - 🌱 I’m currently learning ...
   - Spring Boot
-  - Spring AI
+  - Spring Security; OAuth2 Support
   - C#
   - Monogame
-  - Typescript/Javascript
     
 - 👯 I’m looking to collaborate on ...
   - I'm open to any opportunity or startup.
