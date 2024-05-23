@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
-  - [Integral Mania](https://github.com/Carter907/integral-mania), a learning tool.
+  - [Prop Logic Mastery](https://github.com/Carter907/prop-logic-mastery), an LLM Quiz App.
 - 🌱 I’m currently learning ...
   - Spring Boot
   - Spring AI
