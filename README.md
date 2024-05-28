@@ -8,11 +8,7 @@
   - C#
   - Monogame
     
-- 👯 I’m looking to collaborate on ...
-  - I'm open to any opportunity or startup.
-- 💬 Ask me about ...
-  - Java core
-- 📫 How to reach me: ...
-  - speers.carter@gmail.com
-- 😄 Pronouns: ...
-  - he/him
+- 👯 I’m looking to collaborate on any opportunity or startup.
+- 💬 Ask me about Java core
+- 📫 How to reach me: speers.carter@gmail.com
+- 😄 Pronouns: he/him
