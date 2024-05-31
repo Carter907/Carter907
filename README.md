@@ -12,3 +12,5 @@
 - 💬 Ask me about Java core
 - 📫 How to reach me: speers.carter@gmail.com
 - 😄 Pronouns: he/him
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carter907&theme=dark&show_icons=true)
