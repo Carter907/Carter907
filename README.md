@@ -13,4 +13,5 @@
 - 📫 How to reach me: speers.carter@gmail.com
 - 😄 Pronouns: he/him
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carter907&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carter907&theme=one_dark_pro&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carter907&layout=donut&theme=one_dark_pro)
