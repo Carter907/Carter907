@@ -3,10 +3,11 @@
 - 🔭 I’m currently working on ...
   - [creating a new portfolio page in go](http://github.com/Carter907/survival-forest-mono)
 - 🌱 I’m currently learning ...
+  - Golang and Devops
+  - Vue.js
   - Spring Boot
   - Spring Security; OAuth2 Support
   - C#
-  - Monogame
     
 - 👯 I’m looking to collaborate on any opportunity or startup.
 - 💬 Ask me about Java core
