@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
-  - [Survival Forest Mono](http://github.com/Carter907/survival-forest-mono)
+  - [creating a new portfolio page in go](http://github.com/Carter907/survival-forest-mono)
 - 🌱 I’m currently learning ...
   - Spring Boot
   - Spring Security; OAuth2 Support
