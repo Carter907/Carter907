@@ -4,7 +4,7 @@
   - [creating a new portfolio page in go](http://github.com/Carter907/survival-forest-mono)
 - 🌱 I’m currently learning ...
   - Golang and Devops
-  - Vue.js
+  - Svelte
   - Spring Boot
   - Spring Security; OAuth2 Support
   - C#
