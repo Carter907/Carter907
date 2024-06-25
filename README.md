@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
-  - [creating a new portfolio page in go](http://github.com/Carter907/survival-forest-mono)
+  - [creating a new portfolio page in go](http://github.com/Carter907/my-site)
 - 🌱 I’m currently learning ...
   - Golang and Devops
   - Svelte
