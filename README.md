@@ -4,7 +4,7 @@
   - [creating a new portfolio page in go](http://github.com/Carter907/my-site)
 - 🌱 I’m currently learning ...
   - Golang and Devops
-  - Svelte
+  - Next.js
   - Spring Boot
   - Spring Security; OAuth2 Support
   - C#
