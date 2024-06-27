@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-#### 🔭 I’m currently working on ...
---
+### 🔭 I’m currently working on ...
+
   - [creating a new portfolio page in Next.js](http://github.com/Carter907/my-site)
-#### 🌱 I’m currently learning ...
---
+### 🌱 I’m currently learning ...
+
   - Golang and Devops
   - Next.js
   - Spring Boot
