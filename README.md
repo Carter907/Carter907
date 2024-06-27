@@ -6,7 +6,8 @@
   - Golang and Devops
   - Next.js
 
-- 📫 How to reach me: speers.carter@gmail.com
+### 📫 How to reach me:
+- speers.carter@gmail.com
 
 
 # Stats
