@@ -15,7 +15,7 @@ speers.carter@gmail.com
 </p>
 <p>
   
-  <a target="_blank" href="https://www.codewars.com/users/Carter907"><img src="https://img.shields.io/badge/Codewars-%EF%B8%8F%20Carter907-informational?style=flat&logo=codewars&logoColor=white"/></a>
+  <a target="_blank" href="https://www.codewars.com/users/Carter907"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white"/></a>
 </p>
 
 # Stats
