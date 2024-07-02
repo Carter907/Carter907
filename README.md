@@ -13,6 +13,10 @@ speers.carter@gmail.com
 <p>
 <a target="_blank" href="https://www.hackerrank.com/carter_dev907"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 </p>
+<p>
+  
+  <a target="_blank" href="https://www.codewars.com/users/Carter907"><img src="https://img.shields.io/badge/Codewars-%EF%B8%8F%20Carter907-informational?style=flat&logo=codewars&logoColor=white"/></a>
+</p>
 
 # Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carter907&layout=donut&theme=ayu-mirage)
