@@ -4,8 +4,8 @@
 [creating a new portfolio page in React.js](http://github.com/Carter907/my-site)
 ### 🌱 I’m currently learning ...
   - Golang and Devops
-  - React.js
-  - Haskell
+  - Solid.js
+  - Rust
 
 ### 📫 How to reach me:
 speers.carter@gmail.com
