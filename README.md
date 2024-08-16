@@ -16,5 +16,5 @@ speers.carter@gmail.com
 </p>
 
 # Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carter907&layout=donut&theme=ayu-mirage)
+![Top Langs](github-metrics.svg)
 
