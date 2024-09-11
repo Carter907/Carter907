@@ -4,7 +4,7 @@
 [creating a new portfolio page in Next.js](http://github.com/Carter907/my-site)
 ### 🌱 I’m currently learning ...
   - Golang and Devops
-  - Next.js
+  - Java Spring
   - Rust
 
 ### 📫 How to reach me:
