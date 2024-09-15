@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ### 🔭 I’m currently working on ...
-[creating a new portfolio page in Next.js](http://github.com/Carter907/my-site)
+[creating a new portfolio page in Next.js](http://github.com/Carter907/my-website)
 ### 🌱 I’m currently learning ...
   - Golang and Devops
   - Java Spring
