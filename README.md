@@ -5,6 +5,7 @@
 ### 🌱 I’m currently learning ...
   - C and hardware concepts
   - Systems Dev and GNU/Linux
+  - C++
 
 ### 📫 How to reach me:
 speers.carter@gmail.com
