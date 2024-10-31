@@ -6,7 +6,6 @@
   - C and hardware concepts
   - Systems Dev and GNU/Linux
   - C++
-  - Multivariable Calculus
 
 ### 📫 How to reach me:
 speers.carter@gmail.com
