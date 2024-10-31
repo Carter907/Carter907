@@ -3,9 +3,8 @@
 ### 🔭 I’m currently working on ...
 [creating a new portfolio page in Next.js](http://github.com/Carter907/my-website)
 ### 🌱 I’m currently learning ...
-  - Low level concepts
-  - Data Structures and Algorithms
-  - Rust
+  - C and hardware concepts
+  - Systems Dev and GNU/Linux
 
 ### 📫 How to reach me:
 speers.carter@gmail.com
