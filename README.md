@@ -4,7 +4,7 @@
 [creating a new portfolio page in Next.js](http://github.com/Carter907/my-website)
 ### 🌱 I’m currently learning ...
   - Kotlin
-  - Python
+  - Functional Programming
 
 ### 📫 How to reach me:
 speers.carter@gmail.com
