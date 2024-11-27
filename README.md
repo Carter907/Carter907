@@ -3,7 +3,7 @@
 ### 🔭 I’m currently working on ...
 Building an interpreter in Golang
 ### 🌱 I’m currently learning ...
-  - Golang
+  - Scala and Functional Programming
   - Linux
   - JVM
 
