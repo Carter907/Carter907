@@ -1,10 +1,11 @@
 # Hi there 👋
 
 ### 🔭 I’m currently working on ...
-[creating a new portfolio page in Next.js](http://github.com/Carter907/my-website)
+Building an interpreter in Golang
 ### 🌱 I’m currently learning ...
-  - Kotlin
-  - Functional Programming
+  - Golang
+  - Linux
+  - JVM
 
 ### 📫 How to reach me:
 speers.carter@gmail.com
