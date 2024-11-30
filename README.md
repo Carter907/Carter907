@@ -1,10 +1,10 @@
 # Hi there 👋
 
 ### 🔭 I’m currently working on ...
-Building an interpreter in Golang
+Building Anything that comes to mind.
 ### 🌱 I’m currently learning ...
   - Scala and Functional Programming
-  - Linux
+  - GNU/Linux & C
   - JVM
 
 ### 📫 How to reach me:
