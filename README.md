@@ -3,7 +3,7 @@
 ### 🔭 I’m currently working on ...
 Building Anything that comes to mind.
 ### 🌱 I’m currently learning ...
-  - Scala and Functional Programming
+  - Rust and Systems Programming
   - GNU/Linux & C
   - JVM
 
