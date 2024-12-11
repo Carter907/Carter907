@@ -1,11 +1,4 @@
-# Hi there 👋
 
-### 🔭 I’m currently working on ...
-Building Anything that comes to mind.
-### 🌱 I’m currently learning ...
-  - Rust and Systems Programming
-  - GNU/Linux & C
-  - JVM
 
 ### 📫 How to reach me:
 speers.carter@gmail.com
