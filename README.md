@@ -9,5 +9,6 @@ speers.carter@gmail.com
 </p>
 
 # Stats
-<a href="https://app.daily.dev/carterdev"><img src="https://api.daily.dev/devcards/v2/5GrLiuVup0jyT4AV7qg3S.png?r=4ca&type=wide" width="652" alt="Carter_Dev's Dev Card"/></a>
+![Top Langs](github-metrics.svg)
+
 
