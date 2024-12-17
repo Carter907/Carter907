@@ -1,5 +1,5 @@
 ### ✒️ Currently Working On...
-A Daily Journal TUI using Rust
+[sym-go](https://github.com/Carter907/sym-go) a symbolic math library for Go
 
 ### 📫 How to reach me:
 speers.carter@gmail.com
