@@ -1,4 +1,5 @@
-
+### Currently Working On...
+A Daily Journal TUI using Rust
 
 ### 📫 How to reach me:
 speers.carter@gmail.com
