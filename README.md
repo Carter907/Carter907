@@ -1,5 +1,5 @@
 ### ✒️ Currently Working On...
-[sym-go](https://github.com/Carter907/sym-go) a symbolic math library for Go
+[logoc-loop](https://Github.com/Carter907/logic-loop)
 
 ### 📫 How to reach me:
 speers.carter@gmail.com
