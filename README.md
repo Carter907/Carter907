@@ -1,5 +1,5 @@
 ### ✒️ Currently Working On...
-[logoc-loop](https://Github.com/Carter907/logic-loop)
+[logic-loop](https://Github.com/Carter907/logic-loop)
 
 ### 📫 How to reach me:
 speers.carter@gmail.com
