@@ -1,5 +1,5 @@
 ### ✒️ Currently Working On...
-- [logic-loop](https://Github.com/Carter907/logic-loop)
+- my pinned repositories
 
 
 ### 📫 How to reach me:
