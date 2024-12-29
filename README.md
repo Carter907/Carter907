@@ -1,5 +1,8 @@
 ### ✒️ Currently Working On...
 - my pinned repositories
+- AWS
+- Supabase
+- C
 
 
 ### 📫 How to reach me:
