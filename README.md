@@ -1,7 +1,6 @@
 ### ✒️ Currently Working On...
 - my pinned repositories
-- AWS
-- Supabase
+- Cloud Computing
 - C
 
 
