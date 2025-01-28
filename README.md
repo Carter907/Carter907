@@ -1,6 +1,5 @@
 ### ✒️ Currently Working On...
 - my pinned repositories
-- Cloud Computing
 - C
 
 
