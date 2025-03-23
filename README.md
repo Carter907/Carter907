@@ -1,6 +1,8 @@
 ### ✒️ Currently Working On...
 - my pinned repositories
-- C
+- learning the following languages:
+  - C
+  - RISC-V Assembly
 
 
 ### 📫 How to reach me:
