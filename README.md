@@ -2,7 +2,7 @@
 - my pinned repositories
 - learning the following languages:
   - C
-  - RISC-V Assembly
+  - Python
 
 
 ### 📫 How to reach me:
