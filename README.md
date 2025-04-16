@@ -3,6 +3,7 @@
 - learning the following languages:
   - C
   - Python
+  - Clojure
 
 
 ### 📫 How to reach me:
