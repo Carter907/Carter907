@@ -2,8 +2,9 @@
 - my pinned repositories
 - learning the following languages:
   - C
-  - Python
-  - Clojure
+  - C++
+  - SDL3
+  - JVM
 
 
 ### 📫 How to reach me:
