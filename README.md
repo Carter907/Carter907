@@ -3,7 +3,6 @@
 - learning the following languages:
   - C
   - C++
-  - SDL3
   - JVM
 
 
