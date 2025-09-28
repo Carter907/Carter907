@@ -1,5 +1,8 @@
 ### working on
-my pinned repos, C & C++, systems programming
+- C++
+- Python
+- Web Security
+- Data Structures & Algorithms
 
 ### contact information
 
