@@ -1,8 +1,8 @@
 ### working on
 - C++
-- Python
-- Web Security
+- C
 - Data Structures & Algorithms
+- Computer Architecture
 
 ### contact information
 
