@@ -2,7 +2,7 @@
 - C++
 - C
 - Data Structures & Algorithms
-- Computer Architecture
+- Operating Systems & Performance
 
 ### contact information
 
