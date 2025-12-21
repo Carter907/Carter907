@@ -1,4 +1,4 @@
-### working on
+### studying...
 - C++
 - C
 - Data Structures & Algorithms
