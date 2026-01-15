@@ -1,8 +1,5 @@
 ### studying...
-- C++
-- C
-- Data Structures & Algorithms
-- Operating Systems & Performance
+Operating Systems, Microcontrollers and RTOS
 
 ### contact information
 
