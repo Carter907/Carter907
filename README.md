@@ -1,3 +1,6 @@
+### working on...
+My C shell and other pinned projects
+
 ### studying...
 Operating Systems, Microcontrollers and RTOS
 
