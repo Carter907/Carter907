@@ -2,7 +2,7 @@
 My C shell and other pinned projects
 
 ### studying...
-Operating Systems, Microcontrollers and RTOS
+Operating Systems, Real-time Systems, & C programming
 
 ### contact information
 
