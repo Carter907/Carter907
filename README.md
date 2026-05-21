@@ -2,7 +2,7 @@
 My C shell and other pinned projects
 
 ### studying...
-Operating Systems, Real-time Systems, & C programming
+C Programming, Programming Language Theory, Interpreters.
 
 ### contact information
 
