@@ -1,5 +1,5 @@
 ### working on...
-My C shell and other pinned projects
+An interpreter for my note taking syntax.
 
 ### studying...
 C Programming, Programming Language Theory, Interpreters.
