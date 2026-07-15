@@ -1,8 +1,8 @@
 ### working on...
-An interpreter for my note taking syntax.
+BlueLearn, a non-profit for free, open education!
 
 ### studying...
-C Programming, Programming Language Theory, Interpreters.
+Typescript, React.js, Shadcn, and others
 
 ### contact information
 
