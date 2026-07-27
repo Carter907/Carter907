@@ -4,8 +4,6 @@ BlueLearn, a non-profit for free, open education!
 ### studying...
 Typescript, React.js, Shadcn, and others
 
-### contact information
-
 ### other profiles
 <p>
 <a target="_blank" href="https://leetcode.com/u/Carter907/"><img src="https://img.shields.io/badge/Leetcode-3C3B3A?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
