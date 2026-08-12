@@ -1,8 +1,8 @@
 ### working on...
-BlueLearn, a non-profit for free, open education!
+Knoligenta 
 
 ### studying...
-Typescript, React.js, Shadcn, and others
+Rust, TailwindCSS, React.js, Typescript, SQLite
 
 ### other profiles
 <p>
