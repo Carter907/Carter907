@@ -1,8 +1,8 @@
 ### working on...
-Knoligenta 
+quest, a command line tool for knowledge consolidation and distribution.
 
 ### studying...
-Rust, TailwindCSS, React.js, Typescript, SQLite
+Golang, C, Cobra, CLIG
 
 ### other profiles
 <p>
