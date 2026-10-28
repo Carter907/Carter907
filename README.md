@@ -1,8 +1,7 @@
 ### working on...
 quest, a command line tool for knowledge consolidation and distribution.
 
-### studying...
-Golang, C, Cobra, CLIG
+
 
 ### other profiles
 <p>
